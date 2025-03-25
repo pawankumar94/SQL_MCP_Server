@@ -1,0 +1,13 @@
+streamlit==1.32.2
+google-cloud-bigquery==3.17.2
+google-cloud-bigquery-storage>=2.24.0
+sqlalchemy==2.0.27
+langchain==0.1.11
+langchain-google-vertexai==0.0.3
+google-cloud-aiplatform==1.42.1
+mcp>=1.4.0
+python-dotenv==1.0.0
+pandas==2.2.0
+psutil>=7.0.0
+google-cloud-core>=2.3.3
+sqlalchemy-bigquery>=1.6.1 
