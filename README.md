@@ -13,6 +13,18 @@ SQLGenius is an intelligent SQL assistant that helps you query your BigQuery dat
 - BigQuery integration
 - MCP-based architecture
 
+## 🎥 Demo
+
+Watch SQLGenius in action! Here's a quick demo of how to use the application:
+
+![SQLGenius Demo](demo.gif)
+
+In this demo, you can see:
+1. Natural language query conversion to SQL
+2. Interactive data visualization
+3. Schema exploration
+4. Query history tracking
+
 ## 🚀 Installation
 
 1. Clone the repository and navigate to the project directory:
