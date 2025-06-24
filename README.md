@@ -1,5 +1,7 @@
 # SQLGenius - AI-Powered SQL Assistant
 
+[![MCP Reviewed](https://img.shields.io/badge/MCP%20Reviewed-✓-blue.svg)](https://mcpreview.com/mcp-servers/pawankumar94/sql_mcp_server)
+
 SQLGenius is an intelligent SQL assistant that helps you query your BigQuery database using natural language. Built with MCP (Model Context Protocol), Vertex AI's Gemini Pro, and Streamlit.
 
 ## 🌟 Features
